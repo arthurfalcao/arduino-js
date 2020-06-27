@@ -1,12 +1,12 @@
 {
-  "name": "arduino-with-js",
+  "name": "arduino-js",
   "version": "1.0.0",
-  "main": "index.js",
-  "author": "Arthur Falcão <arthurfalcao77@gmail.com>",
+  "main": "src/index.js",
+  "author": "Arthur Falcão <arthurjvfalcao@gmail.com>",
   "scripts": {
     "start": "node src/index.js"
   },
   "dependencies": {
-    "johnny-five": "^1.0.0"
+    "johnny-five": "^2.0.0"
   }
 }
