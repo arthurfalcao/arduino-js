@@ -7,6 +7,6 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "johnny-five": "^2.0.0"
+    "johnny-five": "^2.1.0"
   }
 }

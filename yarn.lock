@@ -320,10 +320,10 @@ isarray@~1.0.0:
   resolved "https://registry.yarnpkg.com/isarray/-/isarray-1.0.0.tgz#bb935d48582cba168c06834957a54a3e07124f11"
   integrity sha1-u5NdSFgsuhaMBoNJV6VKPgcSTxE=
 
-johnny-five@^2.0.0:
-  version "2.0.0"
-  resolved "https://registry.yarnpkg.com/johnny-five/-/johnny-five-2.0.0.tgz#b044f30c53405d373c9608dc2cd0a3049f737421"
-  integrity sha512-ZKj4s3Bbr0c1xZy3XYHeqgZl3UqfV0p0ZJdrOyfHUmuycLTdQaJ3tmtuYUMLGFqCSVM8EhyTLGEqYzEiDG8iwQ==
+johnny-five@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/johnny-five/-/johnny-five-2.1.0.tgz#12b70d41f716e9fc275308e9e960c4ba2b66e005"
+  integrity sha512-0Z6qa9Tlt7vUShW8gzewXTJgckhMfbaM7ZhbApOhkAW0PrLIOQms/DjOptE/oitE70tD3O8YJ7OlNSMe+en2DQ==
   dependencies:
     chalk "2.1.0"
     color-convert "~1.2.2"
